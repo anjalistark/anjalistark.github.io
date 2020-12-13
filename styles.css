@@ -1,0 +1,16 @@
+body {
+	font-family: cursive;
+	background-color: PeachPuff;
+}
+h1, h2{
+	font-size: 32px;
+	text-align: center;
+	color: dodgerblue;
+}
+img.center {
+	display: block;
+	margin: 0 auto;
+}
+.blog {
+
+}
