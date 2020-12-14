@@ -1,6 +1,7 @@
 body {
 	font-family: cursive;
 	background-color: PeachPuff;
+	background-image: url('bg.jpg');
 }
 h1, h2{
 	font-size: 32px;
@@ -12,5 +13,5 @@ img.center {
 	margin: 0 auto;
 }
 .blog {
-
+	text-align: center;
 }
