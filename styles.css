@@ -3,7 +3,6 @@ body {
 	background-color: PeachPuff;
 }
 .bg {
-	background-image: url("bg.jpg");
 	height: 100%;
 	position: relative;
 	background-position: center;
